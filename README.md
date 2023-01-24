@@ -6,3 +6,4 @@ Junk drawer: A drawer designated for the storage of various miscellaneous, small
 | Name | Description | 
 |---|---|
 | sshproxy | Looping SSH proxy script using SSH keys |
+| masscanParse | Hacky python to extract and format IP:Port combos from masscan output |
