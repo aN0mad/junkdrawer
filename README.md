@@ -5,4 +5,4 @@ Junk drawer: A drawer designated for the storage of various miscellaneous, small
 
 | Name | Description | 
 |---|---|
-| sshproxy.sh | Looping SSH proxy script using SSH keys |
+| sshproxy | Looping SSH proxy script using SSH keys |
