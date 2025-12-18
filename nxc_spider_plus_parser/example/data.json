@@ -1,0 +1,17 @@
+{
+  "NETLOGON": {},
+  "SYSVOL": {
+    "empire.local/Policies/PolicyDefinitions/en-US/msedge.adml": {
+      "atime_epoch": "2025-05-30 14:53:15",
+      "ctime_epoch": "2025-05-30 14:53:15",
+      "mtime_epoch": "2025-04-21 14:34:40",
+      "size": "1.44 MB"
+    },
+    "empire.local/Policies/PolicyDefinitions/en-US/chrome.adml": {
+      "atime_epoch": "2025-05-30 14:53:15",
+      "ctime_epoch": "2025-05-30 14:53:15",
+      "mtime_epoch": "2025-04-21 14:34:40",
+      "size": "1.21 MB"
+    }
+  }
+}
